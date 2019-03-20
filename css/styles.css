@@ -1,0 +1,17 @@
+
+.container{
+	background-color: #B9AFD1;
+	border-radius: 10px;
+}
+
+.first-field{
+	padding-top: 50px;
+}
+
+.last-field{
+	padding-bottom: 50px;
+}
+
+.submit-btn{
+	padding-bottom: 50px;
+}
